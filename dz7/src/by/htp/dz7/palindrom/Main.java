@@ -3,6 +3,7 @@ package by.htp.dz7.palindrom;
 public class Main {
 
 	public static void main(String[] args) {
+		//Задание на дом стр. 51 Вариант А задача 8
 		System.out.println("Среди чисел найти число-палиндром. Если таких чисел больше одного,найти второе.");
 		Chislo x=new Chislo();
 		Chislo []masChisel; 
